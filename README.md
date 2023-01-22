@@ -23,6 +23,11 @@ Features of this system:<br>
 4.add and edit skills<br>
 
 also you can add your social media address(instagram.twitter.telegram....). <br>
-Make changes in "http://localhost/php-cms-main/panel/" and see the results in "http://localhost/php-cms-main".
-
+Make changes in "http://localhost/php-cms-main/panel/" and see the results in "http://localhost/php-cms-main".<br>
+<br>
+<br>
+<b>Pictures</b>
+<hr>
 <img src="./pic/pic1.png">
+<br>
+<img src="./pic/pic2.png">
