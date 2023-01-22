@@ -1,6 +1,6 @@
 <?php
 
-    include_once "C:/xampp/htdocs/resume\controllers/main.php";
+    include_once "../controllers/main.php";
 
 
     class router{
