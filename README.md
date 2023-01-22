@@ -24,3 +24,5 @@ Features of this system:<br>
 
 also you can add your social media address(instagram.twitter.telegram....). <br>
 Make changes in "http://localhost/php-cms-main/panel/" and see the results in "http://localhost/php-cms-main".
+
+<img src="./pic/pic1.png">
